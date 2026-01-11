@@ -1,15 +1,3 @@
-Perfect — your README is **already very strong**. What I’ll do now is **rewrite it cleanly and precisely** so that it:
-
-* ✅ **Perfectly matches Project 1 scope** (Tableau + demographics, NOT ML/SQL)
-* ✅ Is **100% honest** to what you implemented
-* ✅ Sounds **internship / recruiter ready**
-* ✅ Removes any accidental overclaiming
-* ✅ Tightens language, flow, and clarity (without bloating)
-
-Below is a **final, polished README** you can **directly replace** your current one with.
-
----
-
 # Global Terrorism Analytics: Demographics & Risk (2000–2020)
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
