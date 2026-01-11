@@ -1,0 +1,114 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Environments
+.env
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+
+# Spyder project settings
+.spyderproject
+
+# Rope
+.ropeproject
+
+# mypy
+.mypy_cache/
+
+# system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node
+node_modules/
+
+# Data (ignore large raw/processed data to avoid large pushes)
+data/raw/
+data/processed/
+**/data/raw/
+**/data/processed/
+
+# Common data outputs (optional)
+*.csv
+*.tsv
+*.h5
+
+# Dashboards exports
+dashboards/**/*.csv
+
+# Notebook outputs
+outputs/
+
+# Secrets
+.env.*
+secrets.json
+
+# Misc
+*.bak
+*.tmp
+
+# Git
+*.orig
+
+# End
