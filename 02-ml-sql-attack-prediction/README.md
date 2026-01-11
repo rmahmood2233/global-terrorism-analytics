@@ -1,11 +1,3 @@
-Perfect — I’ll **rewrite the README specifically for the 2nd project folder** in a **clean, portfolio-ready, recruiter-friendly way**, while keeping it **honest to what you actually built** and **not overclaiming**.
-
-This version is **shorter, sharper, and aligned with BI / Data / ML internships**, and it clearly distinguishes this project from your **Tableau + demographics project**.
-
----
-
-# 📌 `02-ml-sql-attack-prediction`
-
 ### Global Terrorism Analysis using SQL, Machine Learning & Power BI
 
 ![Python](https://img.shields.io/badge/Python-pandas%20|%20sklearn-blue)
